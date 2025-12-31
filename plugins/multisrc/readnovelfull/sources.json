@@ -96,7 +96,8 @@
     "sourceName": "Novel Bin",
     "options": {
       "latestPage": "sort/latest",
-      "searchPage": "search"
+      "searchPage": "search",
+      "chapterListing": "ajax-chapter-option"
     }
   }
 ]
