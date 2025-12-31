@@ -93,7 +93,7 @@
   {
     "id": "novelbin",
     "sourceSite": "https://novelbin.com/",
-    "sourceName": "Novel Bin",
+    "sourceName": "Novel Bin Test",
     "options": {
       "latestPage": "sort/latest",
       "searchPage": "search",
